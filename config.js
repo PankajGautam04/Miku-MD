@@ -7,14 +7,14 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['918101187835']
+global.Owner = ['916264756416']
 global.OwnerNumber = ['916264756516']
 global.ownertag = ['916264756416']
 global.BotName = "Jassu"
 global.packname = "Dear Jassu"
 global.author = "By: Pankaj"
 global.OwnerName = "Pankaj"
-global.BotSourceCode = "https://github.com/FantoX001/Miku-MD"
+global.BotSourceCode = "https://github.com/PankajGautam04/Miku-MD"
 global.SupportGroupLink = "https://chat.whatsapp.com/JcBzjRIxM5UHfuJbt0KrWt"
 global.sessionName = "session"
 
